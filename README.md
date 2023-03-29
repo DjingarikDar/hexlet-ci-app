@@ -1,3 +1,5 @@
+
+![workflow Makefile](https://github.com/DjingarikDar/hexlet-ci-app/actions/workflows/Makefile.yml/badge.svg)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
